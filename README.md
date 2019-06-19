@@ -1,0 +1,2 @@
+# chromeEX_sakuraCloudCPWallPaper
+さくらのクラウドのコントロールパネルに壁紙を設定します
